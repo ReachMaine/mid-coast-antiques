@@ -1,0 +1,71 @@
+body {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	color: #1e2b17;
+	background-color: #ffffc8;
+
+}
+
+h1 {
+	
+	font-size: 18px;
+	line-height: 24px;
+	color: #1e2b17;
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+h2 {
+	
+	font-size: 24px;
+	line-height: 24px;
+	color: #1e2b17;
+	font-family: Georgia, Times New Roman, Times, serif;
+}
+
+h3 {
+	
+	font-size: 16px;
+	line-height: 18px;
+	color: #1e2b17;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+}
+
+
+h4 {
+	
+	font-size: 14px;
+	line-height: 18px;
+	color: #1e2b17;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-style: italic;
+	font-weight: 100;
+}
+
+h5{
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+h6 {
+	
+	font-size: 12px;
+	color: #1e2b17;
+	font-family: Times New Roman, Times, Georgia, serif;
+	font-weight: 100;
+	font-style:italic;
+}
+
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+    background-color: #455042;
+	color: #ffffc8;
+	padding: 3px;
+
+
+
+a:hover {
+	text-decoration: underline;
+}

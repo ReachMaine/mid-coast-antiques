@@ -1,0 +1,161 @@
+body {
+	background-image: url(images/pagebackground.jpg);
+	background-color: #404D33;
+	background-repeat: repeat;
+	margin: 10px 0 50px 0;
+	background-color: #DCDCDC;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	color: #336699;
+	align: center;
+}
+
+td, th {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;	
+	font-size: 14px;
+	line-height: 24px;
+	color: #333333;
+}
+
+a {
+	color: #3366CC;
+	text-decoration: none;
+	font-weight: bold;
+    color: #455042;
+}
+
+form {
+	background-color: #CCCC99;
+}
+
+.title {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	  font-size: 24px;
+	line-height: 30px;
+  background-color: #006666;
+	color: #DCDCDC;
+}
+
+.subtitle {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+		font-size: 16px;
+	line-height: 22px;
+	font-weight: bold;
+  color: #455042;
+}
+
+.header {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+		font-size: 24px;
+	background-color: #006666;
+  color: #DCDCDC;
+}
+
+.nav {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+		font-size: 14px;
+  font-weight: bold;
+	background-color: #CCCCCC;
+}
+
+.navLink {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+		font-size: 14px;
+	font-weight: bold;
+	background-color: #DEDECA;
+}
+
+.sidebar {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+		font-size: 12px;
+	line-height: 18px;
+	padding: 3px;
+	background-color: #FFFFFF;
+}
+
+.sidebarHeader {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+		font-size: 16px;
+	line-height: 24px;
+	color: #FFFFFF;
+	background-color: #339999;
+}
+
+.sidebarFooter {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+		font-size: 12px;
+	line-height: 18px;
+	background-color: #CCCCCC;
+}
+
+.footer {
+  font-family: Tahoma, Arial, Helvetica, sans-serif;
+  	font-size: 14px;
+	font-weight: bold;
+	line-height: 22px;
+	color: #333333;
+	background-color: #CCCCCC;
+}
+
+.legal {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+		font-size: 9px;
+	color: #333333;
+}
+
+.box1 {
+	border-color: #CCCCCC #333333 #333333 #CCCCCC;
+	border-width: medium;
+  border-style: ridge;
+}
+
+.promo {
+	font-family: "Times New Roman", Times, serif;
+	color: #000033;
+}
+
+.titlebar {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 9px;
+	color: #FFFFFF;
+  background-color: #336699;
+}
+
+.dingbat {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	background-color: #99CC99;
+  color: #006666; 
+	font-weight: bolder;
+	font-size: medium;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+input.big {
+	width: 100px;
+}
+
+input.small {
+	width: 50px;
+}
+
+.left {
+     background: url(images/contentbackgroundleft.png);
+	 vertical-align: bottom;
+}
+
+.right {
+    background: url(images/contentbackgroundright.png);
+	vertical-align: bottom;
+}
+
+ul
+{
+list-style-type: square;
+text-align: left;
+}a {.image-borders {
+	border: 1px dotted #525D4F;
+}
