@@ -1,5 +1,6 @@
 body {
 	background-image: url(images/pagebackground.jpg);
+	background-size: contain;
 	background-color: #404D33;
 	background-repeat: repeat;
 	margin: 10px 0 50px 0;
@@ -8,11 +9,10 @@ body {
 	font-size: 14px;
 	line-height: 24px;
 	color: #336699;
-	align: center;
 }
 
 td, th {
-	font-family: Tahoma, Arial, Helvetica, sans-serif;	
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
 	font-size: 14px;
 	line-height: 24px;
 	color: #333333;
@@ -125,7 +125,7 @@ form {
 .dingbat {
 	font-family: Tahoma, Arial, Helvetica, sans-serif;
 	background-color: #99CC99;
-  color: #006666; 
+  color: #006666;
 	font-weight: bolder;
 	font-size: medium;
 }
