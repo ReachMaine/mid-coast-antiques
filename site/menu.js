@@ -30,7 +30,7 @@ var awmPosClass='';
 var awmSubmenusFrame='';
 var awmSubmenusFrameOffset;
 var awmOptimize=0;
-var awmHash='UCEFBNVRJALMEKCIZGYEBCWAWYWWOB';
+var awmHash='VTEPCYWCKSDOIQKSLUOWVYUAYCCEYX';
 var awmNoMenuPrint=1;
 var awmUseTrs=0;
 var awmSepr=["0","","",""];
@@ -45,9 +45,6 @@ awmCreateCSS(0,2,1,'#FFFFC8',n,n,'15px Tahoma',n,'none','0','#000000','0px 0px 0
 awmCreateCSS(1,2,1,'#FFFFC8',n,n,'15px Tahoma',n,'none','0','#000000','0px 0px 0px 0',1,'0px / 0px',n);
 awmCreateCSS(0,2,1,'#FFFFC8','#525D4F',n,'bold 15px Tahoma','underline','none','0','#000000','0px 0px 0px 0',1,'0px / 0px',n);
 awmCreateCSS(0,2,1,'#FFFFC8',n,n,'15px Tahoma',n,'none','0','#000000','0px 0px 0px 0',1,'0px / 0px',n);
-awmCreateCSS(1,2,1,'#FFFFC8',n,n,'10px Tahoma',n,'none','0','#000000','5px 5px 5px 0',1,'0px / 0px',n);
-awmCreateCSS(0,2,1,'#FFFFC8','#525D4F',n,'bold 10px Tahoma','underline','none','0','#000000','0px 0px 0px 0',1,'0px / 0px',n);
-awmCreateCSS(0,2,1,'#FFFFC8',n,n,'10px Tahoma',n,'none','0','#000000','0px 0px 0px 0',1,'0px / 0px',n);
 var s0=awmCreateMenu(0,0,0,0,1,0,0,0,0,0,50,0,0,0,10,1,0,n,n,100,1,0,10,-25,180,-1,1,200,200,0,0,0,"0,0,0",n,n,n,n,n,n,n,n,0,0,0,0,0,0,0,0,1,0,0,1,n,n,'',n,0,[],0,"");
 it=s0.addItem(1,2,3," &nbsp;207-843-7449 &nbsp;",n,n,"","",n,n,n,n,n,0,0,2,0,0,17,n);
 it=s0.addItem(4,5,6," &nbsp;Views of Our Shop &nbsp;",n,n,"","shop.html",n,n,n,"shop.html",n,0,0,2,0,0,0,n);
@@ -63,6 +60,5 @@ it=s0.addItem(4,5,6," &nbsp;About Us &nbsp;",n,n,"","about.html",n,n,n,"about.ht
 it=s0.addItem(4,5,6," &nbsp;Shipping &amp; Delivery &nbsp;",n,n,"","shipping.html",n,n,n,"shipping.html",n,0,0,2,0,0,10,n);
 it=s0.addItem(4,5,6," &nbsp;Selling Your Antiques &nbsp;",n,n,"","buying.html",n,n,n,"buying.html",n,0,0,2,0,0,11,n);
 it=s0.addItem(4,5,6," &nbsp;Home Page &nbsp;",n,n,"","index.html",n,n,n,"index.html",n,0,0,2,0,0,12,n);
-it=s0.addItem(7,8,9," &nbsp;OUR FAVORITE RESTAURANTS &nbsp;",n,n,"","linksrestaurants.html",n,n,n,"linksrestaurants.html",n,0,0,2,0,0,15,n);
 s0.pm.buildMenu();
 }}
