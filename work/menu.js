@@ -1,5 +1,5 @@
 //----------DHTML Menu Created using AllWebMenus PRO ver 5.3-#940---------------
-//J:\Users\Linda\github_websites\mid-coast-antiques\work\menu.awm
+//C:\Users\Lspeight\Github\mid-coast-antiques\site\menu.awm
 var awmMenuName='menu';
 var awmLibraryBuild=940;
 var awmLibraryPath='/awmdata';
@@ -30,7 +30,7 @@ var awmPosClass='';
 var awmSubmenusFrame='';
 var awmSubmenusFrameOffset;
 var awmOptimize=0;
-var awmHash='VTEPCYWCKSDOIQKSLUOWVYUAYCCEYX';
+var awmHash='HTQFGWGJNIJGSSEEPQCCTOCAQMEYKN';
 var awmNoMenuPrint=1;
 var awmUseTrs=0;
 var awmSepr=["0","","",""];
@@ -53,9 +53,6 @@ it=s0.addItem(4,5,6," &nbsp;Antique Accessories &nbsp;",n,n,"","accessories.html
 it=s0.addItem(4,5,6," &nbsp;Estate Jewelry &nbsp;",n,n,"","jewelry.html",n,n,n,"jewelry.html",n,0,0,2,0,0,2,n);
 it=s0.addItem(4,5,6," &nbsp;Paintings &nbsp;",n,n,"","paintings.html",n,n,n,"paintings.html",n,0,0,2,0,0,3,n);
 it=s0.addItem(4,5,6," &nbsp;Marine &nbsp;",n,n,"","marine.html",n,n,n,"marine.html",n,0,0,2,0,0,4,n);
-it=s0.addItem(4,5,6," &nbsp;Free Appraisals &nbsp;",n,n,"","appraisals.html",n,n,n,"appraisals.html",n,0,0,2,0,0,5,n);
-it=s0.addItem(4,5,6," &nbsp;Furniture Restoration &nbsp;",n,n,"","restoration.html",n,n,n,"restoration.html",n,0,0,2,0,0,6,n);
-it=s0.addItem(4,5,6," &nbsp;Decorating Services &nbsp;",n,n,"","decorating.html",n,n,n,"decorating.html",n,0,0,2,0,0,7,n);
 it=s0.addItem(4,5,6," &nbsp;About Us &nbsp;",n,n,"","about.html",n,n,n,"about.html",n,0,0,2,0,0,9,n);
 it=s0.addItem(4,5,6," &nbsp;Shipping &amp; Delivery &nbsp;",n,n,"","shipping.html",n,n,n,"shipping.html",n,0,0,2,0,0,10,n);
 it=s0.addItem(4,5,6," &nbsp;Selling Your Antiques &nbsp;",n,n,"","buying.html",n,n,n,"buying.html",n,0,0,2,0,0,11,n);
